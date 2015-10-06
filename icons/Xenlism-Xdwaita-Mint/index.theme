@@ -1,0 +1,15 @@
+[Icon Theme]
+Name=Xenlism Xdwaita Mint
+Comment=Green Mint Adwaita Folder Icons in xenlism style. Color By Gabriele Musco (https://github.com/GabMus)
+Inherits=Xenlism-Wildfire,Adwaita,elementary,hicolor
+
+# Directory list
+Directories=Places
+# Actions
+
+[Places]
+Context=Places
+Size=64
+MinSize=32
+MaxSize=512
+Type=Scalable
