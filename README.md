@@ -1,5 +1,7 @@
 # Xenlism Xdwaita
 Adwaita in Xenlism Style    
+I create Xdwaita because I fun with it. Nothing else.
+———————
 Xdwaita Origin - Brown Color   
 Xdwaita FineDay - Blue Color   
 Xdwaita Mint - Green Mint Oringinal by [Gabriele Musco](https://github.com/GabMus)    
